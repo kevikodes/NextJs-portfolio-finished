@@ -8,6 +8,9 @@
     "start": "next start",
     "export": "yarn run build && next export && mv out _static"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "next": "^12.1.0",
     "react": "17.0.1",
