@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { personalDetails } from '../../data/personalDetails'
+import { personalDetails } from '../../data/PersonalDetails'
 import { useRouter } from 'next/router'
 import { Button } from '../shared'
 
