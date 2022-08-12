@@ -1,5 +1,5 @@
 import React from 'react'
-import { personalDetails } from '../../data/personalDetails'
+import { personalDetails } from '../../data/PersonalDetails'
 
 const Footer = () => {
   const style = {

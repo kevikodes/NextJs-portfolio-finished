@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button } from '../shared'
-import { personalDetails } from '../../data/personalDetails'
+import { personalDetails } from '../../data/PersonalDetails'
 
 const Contact = () => {
   const style = {

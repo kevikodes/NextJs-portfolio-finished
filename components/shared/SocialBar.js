@@ -1,6 +1,6 @@
 import React from 'react'
 import { SocialIcon } from 'react-social-icons'
-import { personalDetails } from '../../data/personalDetails'
+import { personalDetails } from '../../data/PersonalDetails'
 
 const SocialBar = () => {
   const style = {

@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import { ProjectCard, TextCards } from '../shared'
-import { projects } from '../../data/projects'
+import { projects } from '../../data/Projects'
 import { textCardsData } from '../../data/TextCardsData'
 const Projects = () => {
   const style = {
