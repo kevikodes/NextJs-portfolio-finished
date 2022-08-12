@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import { personalDetails } from '../../data/personalDetails'
+import { personalDetails } from '../../data/PersonalDetails'
 import Experience from './experience'
 
 const Work = () => {
